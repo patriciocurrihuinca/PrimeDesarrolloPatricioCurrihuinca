@@ -1,0 +1,2 @@
+# PrimeDesarrolloPatricioCurrihuinca
+mi primer repositorio
